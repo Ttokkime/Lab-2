@@ -1,0 +1,1 @@
+Recommendations for reducting risk include actions such as removing the use of web browsers cookies, and JavaScript and restricting the amount of communication that occurs through the use of vulnerable protocols including this one. 
