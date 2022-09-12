@@ -17,7 +17,11 @@
 <img src = "https://github.com/Ttokkime/Lab-2/blob/8d18e915961a7d513b555896f4e695182c26990f/172.30.0.10%20Nmap%20Ports%20and%20Hosts.png" width="700" height="550">
 </p>
  
+ 
+<p align = "center"> 
 This is a picture of the Ports/Hosts tab from the SYN scan for 172.30.0.10 on Zenmap
+</p>
+
 
 ## Performing vulnerability scans on target IP subnetworks using Nessus Scans
 ## Assessing vulnerability assessment scans in order to identify vulnerabilities
