@@ -32,7 +32,7 @@ This is a picture of the Ports/Hosts tab from the SYN scan for 172.30.0.10 on Ze
 * The different operating systems can be seen as the icons that are next to each host. For instance, the windows icon represents a Windows machine while the penguins represent a Linux machine. 
 
 <p align = "center">
-<img src = "https://github.com/Ttokkime/Lab-2/blob/8809509c9c8970988714982913987e5bf5ba56f2/OS%20scan%20172.30.0.2.png" width="700" height="550">
+<img src = "https://github.com/Ttokkime/Lab-2/blob/8809509c9c8970988714982913987e5bf5ba56f2/OS%20scan%20172.30.0.2.png" width="650" height="500">
 </p>
  
  
