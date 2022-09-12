@@ -49,7 +49,7 @@ This is a picture of the Host Details tab from the OS scan for 172.30.0.2 on Zen
 * -sV  is better than the OS fingerprinting scan in that it is able to detect OS types better than -O, but the downside of this scan is that it takes a longer time to complete scans in comparison to other scanning options. 
 
 <p align = "center">
-<img src = "https://github.com/Ttokkime/Lab-2/blob/8809509c9c8970988714982913987e5bf5ba56f2/172.30.0.10%20Ports%20and%20Hosts%20Service%20scan.png" width="650" height="500">
+<img src = "https://github.com/Ttokkime/Lab-2/blob/8809509c9c8970988714982913987e5bf5ba56f2/172.30.0.10%20Ports%20and%20Hosts%20Service%20scan.png" width="700" height="550">
 </p>
  
  
