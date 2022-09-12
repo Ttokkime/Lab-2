@@ -23,5 +23,23 @@ This is a picture of the Ports/Hosts tab from the SYN scan for 172.30.0.10 on Ze
 </p>
 
 
+```
+ nmap -O 172.30.0.0/24
+```
+
+* This command runs an OS fingerprinting scan and can see which OS or operating systems are being run on the network hosts in the subnetwork.
+* This scan not only can see which TCP ports are open, but can also guess which operating systems each host had. 
+* The different operating systems can be seen as the icons that are next to each host. For instance, the windows icon represents a Windows machine while the penguins represent a Linux machine. 
+
+<p align = "center">
+<img src = "https://github.com/Ttokkime/Lab-2/blob/8d18e915961a7d513b555896f4e695182c26990f/172.30.0.10%20Nmap%20Ports%20and%20Hosts.png" width="700" height="550">
+</p>
+ 
+ 
+<p align = "center"> 
+This is a picture of the Ports/Hosts tab from the SYN scan for 172.30.0.10 on Zenmap
+</p>
+
+
 ## Performing vulnerability scans on target IP subnetworks using Nessus Scans
 ## Assessing vulnerability assessment scans in order to identify vulnerabilities
