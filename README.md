@@ -61,7 +61,7 @@ Ports/Hosts tab from the Service scan for 172.30.0.10 on Zenmap
 By using the vulnerability scans that were performed on target IP subnetworks using Nessus Scans, I was able to identify security vulnerabilities.
 
 <p align = "center">
-<img src = "https://github.com/Ttokkime/Lab-2/blob/bc5d1449480c01eb8a25e523883cd6dc8c543b6c/Medium%20risk%20security%20vulnerabilities.png" width="700" height="650">
+<img src = "https://github.com/Ttokkime/Lab-2/blob/bc5d1449480c01eb8a25e523883cd6dc8c543b6c/Medium%20risk%20security%20vulnerabilities.png">
 </p>
  
  
