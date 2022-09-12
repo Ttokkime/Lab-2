@@ -19,7 +19,7 @@
  
  
 <p align = "center"> 
-This is a picture of the Ports/Hosts tab from the SYN scan for 172.30.0.10 on Zenmap
+Ports/Hosts tab from the SYN scan for 172.30.0.10 on Zenmap
 </p>
 
 
@@ -37,7 +37,7 @@ This is a picture of the Ports/Hosts tab from the SYN scan for 172.30.0.10 on Ze
  
  
 <p align = "center"> 
-This is a picture of the Host Details tab from the OS scan for 172.30.0.2 on Zenmap
+Host Details tab from the OS scan for 172.30.0.2 on Zenmap
 </p>
 
 
@@ -54,9 +54,18 @@ This is a picture of the Host Details tab from the OS scan for 172.30.0.2 on Zen
  
  
 <p align = "center"> 
-This is a picture of the Ports/Hosts tab from the Service scan for 172.30.0.10 on Zenmap
+Ports/Hosts tab from the Service scan for 172.30.0.10 on Zenmap
 </p>
 
-## Performing vulnerability scans on target IP subnetworks using Nessus Scans
 ## Assessing vulnerability assessment scans in order to identify vulnerabilities
-By using the vulnerability scans that were performed on target IP subnetworks using Nessus Scans
+By using the vulnerability scans that were performed on target IP subnetworks using Nessus Scans, I was able to identify security vulnerabilities.
+
+<p align = "center">
+<img src = "https://github.com/Ttokkime/Lab-2/blob/bc5d1449480c01eb8a25e523883cd6dc8c543b6c/Medium%20risk%20security%20vulnerabilities.png" width="700" height="650">
+</p>
+ 
+ 
+<p align = "center"> 
+172.30.0.11 Medium risk vulnerabilities 
+</p>
+
