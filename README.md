@@ -59,6 +59,7 @@ Ports/Hosts tab from the Service scan for 172.30.0.10 on Zenmap
 
 ## Assessing vulnerability assessment scans in order to identify vulnerabilities
 By using the vulnerability scans that were performed on target IP subnetworks using Nessus Scans, I was able to identify security vulnerabilities.
+In this case a basic network scan was conducted on the ip address 172.30.0.11 and gave back results of multiple different types of medium risk security vulnerabilities. 
 
 <p align = "center">
 <img src = "https://github.com/Ttokkime/Lab-2/blob/bc5d1449480c01eb8a25e523883cd6dc8c543b6c/Medium%20risk%20security%20vulnerabilities.png">
