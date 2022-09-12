@@ -41,5 +41,21 @@ This is a picture of the Host Details tab from the OS scan for 172.30.0.2 on Zen
 </p>
 
 
+```
+ nmap -sV 172.30.0.0/24
+```
+
+* This command unlike the previous SYN scan can identify the software versions of the TCP ports that are open and can make a guess as to which operating system each host has based on the services of each. 
+* -sV  is better than the OS fingerprinting scan in that it is able to detect OS types better than -O, but the downside of this scan is that it takes a longer time to complete scans in comparison to other scanning options. 
+
+<p align = "center">
+<img src = "https://github.com/Ttokkime/Lab-2/blob/8809509c9c8970988714982913987e5bf5ba56f2/172.30.0.10%20Ports%20and%20Hosts%20Service%20scan.png" width="650" height="500">
+</p>
+ 
+ 
+<p align = "center"> 
+This is a picture of the Ports/Hosts tab from the Service scan for 172.30.0.10 on Zenmap
+</p>
+
 ## Performing vulnerability scans on target IP subnetworks using Nessus Scans
 ## Assessing vulnerability assessment scans in order to identify vulnerabilities
