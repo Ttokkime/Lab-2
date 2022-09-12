@@ -14,7 +14,7 @@
 * The scan was able to identify services, but it was not able to identify the specifics such as what the versions of these services were. 
 
 <p align = "center">
-<img src = "https://github.com/Ttokkime/Lab-2/blob/8d18e915961a7d513b555896f4e695182c26990f/172.30.0.10%20Nmap%20Ports%20and%20Hosts.png" width="600" height="600">
+<img src = "https://github.com/Ttokkime/Lab-2/blob/8d18e915961a7d513b555896f4e695182c26990f/172.30.0.10%20Nmap%20Ports%20and%20Hosts.png" width="700" height="550">
 </p>
  
 This is a picture of the Ports/Hosts tab from the SYN scan for 172.30.0.10 on Zenmap
