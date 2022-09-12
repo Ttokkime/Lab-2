@@ -59,3 +59,4 @@ This is a picture of the Ports/Hosts tab from the Service scan for 172.30.0.10 o
 
 ## Performing vulnerability scans on target IP subnetworks using Nessus Scans
 ## Assessing vulnerability assessment scans in order to identify vulnerabilities
+By using the vulnerability scans that were performed on target IP subnetworks using Nessus Scans
